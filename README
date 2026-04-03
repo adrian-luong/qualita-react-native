@@ -1,0 +1,50 @@
+# Qualita - Mobile Task Management App
+
+A powerful task management application built with React Native for all platforms, supporting web and Android.
+
+## Features
+
+- **Create & Manage Tasks** - Add, edit, and delete tasks with ease
+- **Categories** - Organize tasks by custom categories
+- **Priority Levels** - Set high, medium, or low priority for each task
+- **Due Dates** - Schedule tasks with deadline reminders
+- **Search & Filter** - Quickly find tasks by keyword or status
+- **Dark Mode** - Eye-friendly dark theme support
+- **Notifications** - Get reminders for upcoming deadlines
+- **Offline Support** - Work without internet connection
+
+## Tech Stack
+
+- **React Native** - Cross-platform mobile framework
+- **TypeScript** - Type-safe development
+- **Redux** - State management
+- **AsyncStorage** - Local data persistence
+- **React Navigation** - App navigation
+
+## Installation
+
+1. Install dependencies: `bun install`
+2. Start the app: `bun expo start`
+
+In the output, you'll find options to open the app in a
+
+- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
+- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
+- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
+- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+
+You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+
+## Learn more
+
+To learn more about developing your project with Expo, look at the following resources:
+
+- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
+- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+
+## Join the community
+
+Join our community of developers creating universal apps.
+
+- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
+- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
